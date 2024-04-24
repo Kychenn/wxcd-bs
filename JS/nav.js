@@ -10,7 +10,7 @@ document.writeln("");
 document.writeln("<body>");
 document.writeln("    <div class=\'nav\'>");
 document.writeln("        <div class=\'home\'>");
-document.writeln("            <a href=\'/web/响应式/index.html\'>首页</a>");
+document.writeln("            <a href=\'/wxcd-bs/index.html\'>首页</a>");
 document.writeln("        </div>");
 document.writeln("        <div class=\'nav-right\'>");
 document.writeln("            <a href=\'#tianpin\'>甜品</a>");
