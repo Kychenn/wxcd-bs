@@ -6,7 +6,6 @@ document.writeln("    <meta charset=\'UTF-8\'>");
 document.writeln("    <meta name=\'viewport\' content=\'width=device-width, initial-scale=1.0\'>");
 document.writeln("    <title>Document</title>");
 document.writeln("</head>");
-document.writeln("");
 document.writeln("<body>");
 document.writeln("    <!-- main  -->");
 document.writeln("    <div class=\'container\'>");
