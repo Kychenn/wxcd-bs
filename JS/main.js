@@ -19,6 +19,7 @@ document.writeln("            <li class=\'col-md-3 col-6\'><a href=\'/wxcd-bs/�
 document.writeln("            <li class=\'col-md-3 col-6\'><a href=\'/wxcd-bs/菜/干煎柠檬鸡.html\'><img src=\'/wxcd-bs/images/干煎柠檬鸡.png' alt=\'\'></a></li>");
 document.writeln("            <li class=\'col-md-3 col-6\'><a href=\'/wxcd-bs/菜/肉沫土豆泥拌饭.html\'><img src=\'/wxcd-bs/images/肉沫土豆泥拌饭.png' alt=\'\'></a></li>");
 document.writeln("            <li class=\'col-md-3 col-6\'><a href=\'/wxcd-bs/菜/爆浆芝士牛肉饼.html\'><img src=\'/wxcd-bs/images/爆浆芝士牛肉饼.png' alt=\'\'></a></li>");
+document.writeln("            <li class=\'col-md-3 col-6\'><a href=\'/wxcd-bs/菜/烧烤土豆牛肉.html\'><img src=\'/wxcd-bs/images/烧烤土豆牛肉.png' alt=\'\'></a></li>");
 document.writeln("        </ul>");
 document.writeln("        <!-- 甜品 -->");
 document.writeln("        <div class=\'row title\'>");
